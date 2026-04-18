@@ -1,12 +1,12 @@
 {
-  "export_job_id": "043a3068-23cb-443d-a4a4-27f33eb228bb",
+  "export_job_id": "ddb6808e-c990-4426-85e9-afdc45634d62",
   "id_short": 504112,
-  "published_at": "2026-04-12T19:34:27Z",
+  "published_at": "2026-04-18T19:15:57Z",
   "repo_name": "top-30-active-restaurant-whales-in-phoenix-us-sample-504112",
   "sample_asset_name": "beamstation_504112_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/504112/beamstation_504112_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 100,
-  "sample_sha256": "1606c4390dba8593f25c99ddf790e42a4dfb1bcb4ec9ac94d9d1f1c6a05bb71f",
-  "sample_size_bytes": 428471,
-  "total_records": 1005
+  "sample_records": 111,
+  "sample_sha256": "c83cfe9348f1ee3aecca4d82dbef204135316ec0b45857001ba0ac06a0447aa7",
+  "sample_size_bytes": 483011,
+  "total_records": 1114
 }
