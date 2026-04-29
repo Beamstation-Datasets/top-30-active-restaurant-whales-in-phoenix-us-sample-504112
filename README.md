@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Phoenix, US
 
-> Free BeamStation sample export with 105 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `504112` |
 | Location | Phoenix |
 | Category | Restaurants |
-| Full dataset size | 1,052 records |
-| Free sample size | 105 records (9.98%) |
-| Last export | 2026-04-22T04:22:37.140990+00:00 |
+| Full dataset size | 204 records |
+| Free sample size | 20 records (9.8%) |
+| Last export | 2026-04-29T06:47:46.654295+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-phoenix-us-sample-504112/releases/download/sample-latest/beamstation_504112_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
